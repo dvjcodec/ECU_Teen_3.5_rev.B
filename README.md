@@ -24,8 +24,8 @@ On the board:
 - 2x HALL input or VR
 - MAP sensor 3bar
 
-![Board](Renders/1.jpg?raw=true "Board")
-![Board](Renders/2.jpg?raw=true "Board")
+![Board](renders/1.jpg?raw=true "Board")
+![Enclosure](renders/2.jpg?raw=true "Board")
 
 ## Firmware
 
