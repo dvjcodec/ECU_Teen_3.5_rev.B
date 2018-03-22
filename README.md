@@ -25,7 +25,8 @@ On the board:
 - MAP sensor 3bar
 
 ![Board](renders/1.jpg?raw=true "Board")
-![Enclosure](renders/2.jpg?raw=true "Board")
+![Enclosure](renders/2.jpg?raw=true "Enclosure")
+![Board](renders/all_layers_20180320.png?raw=true "Board")
 
 ## Firmware
 
