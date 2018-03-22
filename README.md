@@ -1,6 +1,7 @@
 # ECUTeen_3.5 rev.B (not tested!)
 
-Stand Alone ECU with Teensy 3.5/ Designed for connector and enclosure from BOSCH EDC15 ECU from VW/Audi. 
+Stand Alone ECU with Teensy 3.5
+Designed for connector and enclosure BOSCH EDC15 ECU from VW/Audi. 
 
 On the board:
 - 8 injection chanels
