@@ -1,4 +1,4 @@
-# ECUTeen_3.5 rev.B
+# ECUTeen_3.5 rev.B (not tested!)
 
 Stand Alone ECU with Teensy 3.5/ Designed for connector and enclosure from BOSCH EDC15 ECU from VW/Audi. 
 
