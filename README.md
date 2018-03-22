@@ -13,6 +13,7 @@ On the board:
 - 3x low current outs (FAN, FUEL, LC1)
 - TX/RX pins on external connector (for BT)
 - I2C pins on external connector
+- UD-/UD+ from Teensy to external
 - Clutch control
 - tachometer out
 - 5V power supply with LM2596
